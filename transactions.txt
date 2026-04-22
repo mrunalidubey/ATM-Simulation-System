@@ -1,0 +1,7 @@
+Withdrawn: 6000
+Withdrawn: 200
+Deposited: 3000
+Deposited: 5000
+Withdrawn: 9000
+Deposited: 400
+Withdrawn: 5000
